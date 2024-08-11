@@ -1,3 +1,3 @@
 ### To Do List
 
-[ x ] Test 1
+[x] Test 1
